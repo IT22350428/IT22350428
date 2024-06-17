@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **isuruedirisinghe2001@gmail.com**
 
+- 👨‍💻 All of my projects are available at **
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/ediri2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ediri2001" height="30" width="40" /></a>
