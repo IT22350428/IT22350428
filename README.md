@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **isuruedirisinghe2001@gmail.com**
 
-- 👨‍💻 All of my projects are available at **
+- 👨‍💻 All of my projects are available at **https://it22350428.github.io/Isuru_Portfolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
